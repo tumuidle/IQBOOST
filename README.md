@@ -1,2 +1,3 @@
-# forge-mixin-example
-An example for using Mixin in Minecraft Forge
+用于提升用户IQ的模组
+
+建议与LiquidBounce等模组一起使用
